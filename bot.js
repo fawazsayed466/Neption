@@ -19,7 +19,7 @@ client.on('ready', () => {
 
 
 client.on('ready', () => {                           
-client.user.setGame(`Silver System | $help`);                                                                                                                                                                                                                                                                                                                                                                                                                            
+client.user.setGame(`Bot BY_Neptune.`);                                                                                                                                                                                                                                                                                                                                                                                                                            
 });
 
 
@@ -33,7 +33,7 @@ client.on('ready', () => {
 
 
 client.on('guildMemberAdd', member =>{
-    member.addRole(member.guild.roles.find(x => x.name === '« Silver Member'), "Auto-Role")
+    member.addRole(member.guild.roles.find(x => x.name === 'M6), "Auto-Role")
 });
 
 
@@ -95,7 +95,7 @@ client.on('message',async Epic => {
       SPEAK: false
     });
     setInterval(() => {
-      c.setName(` SC Voice [ ${Epic.guild.members.filter(m => m.voiceChannel).size} ]`)
+      c.setName(` Neptune Voice [ ${Epic.guild.members.filter(m => m.voiceChannel).size} ]`)
     },1000);
   });
   }
@@ -336,9 +336,9 @@ client.on("message", message => {
   const embed = new Discord.RichEmbed()
       .setColor("RANDOM")
       .setDescription(`
-─════════════ {✯Silver_Community©✯} ════════════─
-CopyRight: By Silver Community.
-─════════════ {✯Silver_Community©✯} ════════════─
+─════════════ {✯Neptune.©✯} ════════════─
+CopyRight: By Neptune.
+─════════════ {✯Neptune.©✯} ════════════─
       `)
    message.channel.sendEmbed(embed)
     }
@@ -1348,7 +1348,7 @@ client.on("message", message => {
 
 👑Commands Silver Community|أوامر البوت الأسطورية👑
 
-─════════════ {✯Silver System©✯} ════════════─
+─════════════ {✯Neptune.©✯} ════════════─
 ❧ $help-admin ➺ 🔰اوامر الادارة🔰
 
 ❧ $help-public ➺ 👑اوامر العامة👑
@@ -1360,7 +1360,7 @@ client.on("message", message => {
 ❧ $help-color ➺ ✏أوامر الألوان🎉
 
 ❧ $help-use ➺🚩للمزيد من المعلومات للبوت🚩
-─════════════ {✯Silver System©✯} ════════════─
+─════════════ {✯Neptune.©✯} ════════════─
       `)
    message.channel.sendEmbed(embed)
 
