@@ -19,7 +19,7 @@ client.on('ready', () => {
 
 
 client.on('ready', () => {                           
-client.user.setGame(`Bot BY_Neptune.`);                                                                                                                                                                                                                                                                                                                                                                                                                            
+client.user.setGame(`Bot BY_Neptune./$help`);                                                                                                                                                                                                                                                                                                                                                                                                                            
 });
 
 
