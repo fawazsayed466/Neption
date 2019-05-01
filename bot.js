@@ -1346,7 +1346,7 @@ client.on("message", message => {
       .setColor("RANDOM")
       .setDescription(`
 
-👑Commands Silver Community|أوامر البوت الأسطورية👑
+Commands Neptune.|أوامر البوت الأسطورية👑
 
 ─════════════ {✯Neptune.©✯} ════════════─
 ❧ $help-admin ➺ 🔰اوامر الادارة🔰
